@@ -1,0 +1,19 @@
+{
+  "name": "day-3-http",
+  "version": "1.0.0",
+  "main": "src/server.js",
+  "type": "commonjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev" : "nodemon src/server.js",
+    "prod" : "node src/server.js"
+    
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "nodemon": "^3.1.14"
+  }
+}
